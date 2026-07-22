@@ -1,2 +1,8 @@
-# Railway-Delay-Prediction
-A machine learning model that predicts railway delays based on weather, time of day, and historical performance. Built with Python and scikit-learn. Includes data preprocessing, model training, and a simple  interface.
+# Railway Delay Prediction
+
+A Machine Learning project built using Streamlit and LightGBM to predict railway delays.
+
+## Features
+- Predict train delay
+- Streamlit web interface
+- LightGBM model
